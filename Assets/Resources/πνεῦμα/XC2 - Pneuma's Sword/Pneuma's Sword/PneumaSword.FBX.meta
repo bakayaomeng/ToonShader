@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: d6fe5bb37767fb14b882514fdaf58153
+timeCreated: 1564818042
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: EX_body
+    100002: EX_bodyB
+    100004: EX_bodyC
+    100006: EX_bodyD
+    100008: EX_bodyE
+    100010: EX_bodyF
+    100012: EX_efA
+    100014: EX_efB
+    100016: EX_efC
+    100018: EX_efD
+    100020: EX_efE
+    100022: EX_efF
+    100024: Mesh 0[U-201NS]
+    100026: Mesh 10[U-201NS]
+    100028: Mesh 1[U-201NS]
+    100030: Mesh 2[U-20NS]
+    100032: Mesh 3[U-2012NS]
+    100034: Mesh 4[U-20123NS]
+    100036: Mesh 5[U-201NS]
+    100038: Mesh 6[U-201NS]
+    100040: Mesh 7[U-2012NS]
+    100042: Mesh 8[U-20123NS]
+    100044: Mesh 9[U-20NS]
+    100046: //RootNode
+    100048: wp012101_Bone
+    400000: EX_body
+    400002: EX_bodyB
+    400004: EX_bodyC
+    400006: EX_bodyD
+    400008: EX_bodyE
+    400010: EX_bodyF
+    400012: EX_efA
+    400014: EX_efB
+    400016: EX_efC
+    400018: EX_efD
+    400020: EX_efE
+    400022: EX_efF
+    400024: Mesh 0[U-201NS]
+    400026: Mesh 10[U-201NS]
+    400028: Mesh 1[U-201NS]
+    400030: Mesh 2[U-20NS]
+    400032: Mesh 3[U-2012NS]
+    400034: Mesh 4[U-20123NS]
+    400036: Mesh 5[U-201NS]
+    400038: Mesh 6[U-201NS]
+    400040: Mesh 7[U-2012NS]
+    400042: Mesh 8[U-20123NS]
+    400044: Mesh 9[U-20NS]
+    400046: //RootNode
+    400048: wp012101_Bone
+    2100000: 'Material #38'
+    2100002: 'Material #35'
+    2100004: 'Material #34'
+    2100006: 'Material #27'
+    2100008: 'Material #25'
+    2100010: _phong23
+    2100012: 'Material #36'
+    2100014: 'Material #28'
+    2100016: 'Material #37'
+    2100018: phong7
+    4300000: Mesh 0[U-201NS]
+    4300002: Mesh 1[U-201NS]
+    4300004: Mesh 2[U-20NS]
+    4300006: Mesh 3[U-2012NS]
+    4300008: Mesh 4[U-20123NS]
+    4300010: Mesh 5[U-201NS]
+    4300012: Mesh 6[U-201NS]
+    4300014: Mesh 7[U-2012NS]
+    4300016: Mesh 8[U-20123NS]
+    4300018: Mesh 9[U-20NS]
+    4300020: Mesh 10[U-201NS]
+    9500000: //RootNode
+    13700000: Mesh 0[U-201NS]
+    13700002: Mesh 10[U-201NS]
+    13700004: Mesh 1[U-201NS]
+    13700006: Mesh 2[U-20NS]
+    13700008: Mesh 3[U-2012NS]
+    13700010: Mesh 4[U-20123NS]
+    13700012: Mesh 5[U-201NS]
+    13700014: Mesh 6[U-201NS]
+    13700016: Mesh 7[U-2012NS]
+    13700018: Mesh 8[U-20123NS]
+    13700020: Mesh 9[U-20NS]
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

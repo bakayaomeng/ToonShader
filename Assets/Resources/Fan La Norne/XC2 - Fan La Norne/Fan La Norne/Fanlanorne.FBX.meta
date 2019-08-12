@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 1fe14a448040c9140b846bf15dcf932a
+timeCreated: 1564817650
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arms
+    100002: BodyClothing
+    100004: CrystalFull
+    100006: CrystalHalf
+    100008: CrystalHalfBroken
+    100010: CrystalShard
+    100012: DJ_elb_L_00
+    100014: DJ_elb_L_01
+    100016: DJ_elb_R_00
+    100018: DJ_elb_R_01
+    100020: DJ_hair_00
+    100022: DJ_hair_01
+    100024: DJ_hair_02
+    100026: DJ_hair_03
+    100028: DJ_hair_04
+    100030: DJ_hair_05
+    100032: DJ_hair_10
+    100034: DJ_hair_11
+    100036: DJ_hair_12
+    100038: DJ_hair_13
+    100040: DJ_hair_14
+    100042: DJ_hair_15
+    100044: DJ_leg_L_00
+    100046: DJ_leg_L_01
+    100048: DJ_leg_R_00
+    100050: DJ_leg_R_01
+    100052: DJ_moni_L_00
+    100054: DJ_moni_L_01
+    100056: DJ_moni_L_02
+    100058: DJ_moni_L_03
+    100060: DJ_moni_R_00
+    100062: DJ_moni_R_01
+    100064: DJ_moni_R_02
+    100066: DJ_moni_R_03
+    100068: DJ_mune_L_00
+    100070: DJ_mune_L_01
+    100072: DJ_mune_R_00
+    100074: DJ_mune_R_01
+    100076: DJ_nckclt_00
+    100078: DJ_nckclt_01
+    100080: DJ_string_L_00
+    100082: DJ_string_L_01
+    100084: DJ_string_R_00
+    100086: DJ_string_R_01
+    100088: DJ_tareA_00
+    100090: DJ_tareA_01
+    100092: DJ_tareB_00
+    100094: DJ_tareB_01
+    100096: DJ_tareC_00
+    100098: DJ_tareC_01
+    100100: EX_apronBA_L
+    100102: EX_apronBA_R
+    100104: EX_apronBB_L
+    100106: EX_apronBB_R
+    100108: EX_apronFA_L
+    100110: EX_apronFA_R
+    100112: EX_apronFB_L
+    100114: EX_apronFB_R
+    100116: EX_armcltA_L
+    100118: EX_armcltA_R
+    100120: EX_armcltB_L
+    100122: EX_armcltB_R
+    100124: EX_armcltC_L
+    100126: EX_armcltC_R
+    100128: EX_bkclt
+    100130: EX_nckclt
+    100132: EX_spclt_L
+    100134: EX_spclt_R
+    100136: EX_wp_L
+    100138: EX_wp_R
+    100140: Eyes
+    100142: Face
+    100144: FaceDot
+    100146: //RootNode
+    100148: FC_eye_L
+    100150: FC_eye_R
+    100152: FloatingCloth
+    100154: Hair
+    100156: HairTies
+    100158: Headdress
+    100160: Highlights
+    100162: JD_foot_L
+    100164: JD_foot_R
+    100166: JD_hip
+    100168: JD_leg_L
+    100170: JD_leg_R
+    100172: JD_tg_L
+    100174: JD_tg_R
+    100176: JD_toe_L
+    100178: JD_toe_R
+    100180: JU_arm_L
+    100182: JU_arm_R
+    100184: JU_elb_L
+    100186: JU_elb_R
+    100188: JU_hand_L
+    100190: JU_hand_R
+    100192: JU_head
+    100194: JU_hi_L
+    100196: JU_hi_R
+    100198: JU_indeA_L
+    100200: JU_indeA_R
+    100202: JU_indeB_L
+    100204: JU_indeB_R
+    100206: JU_littA_L
+    100208: JU_littA_R
+    100210: JU_littB_L
+    100212: JU_littB_R
+    100214: JU_middA_L
+    100216: JU_middA_R
+    100218: JU_middB_L
+    100220: JU_middB_R
+    100222: JU_neck
+    100224: JU_ringA_L
+    100226: JU_ringA_R
+    100228: JU_ringB_L
+    100230: JU_ringB_R
+    100232: JU_shol_L
+    100234: JU_shol_R
+    100236: JU_spA
+    100238: JU_spB
+    100240: JU_thmbA_L
+    100242: JU_thmbA_R
+    100244: JU_thmbB_L
+    100246: JU_thmbB_R
+    100248: np001101_Bone
+    100250: TW_arm_L
+    100252: TW_arm_R
+    100254: TW_elb_L
+    100256: TW_elb_R
+    100258: TW_hip_L
+    100260: TW_hip_R
+    100262: TW_leg_L
+    100264: TW_leg_R
+    400000: Arms
+    400002: BodyClothing
+    400004: CrystalFull
+    400006: CrystalHalf
+    400008: CrystalHalfBroken
+    400010: CrystalShard
+    400012: DJ_elb_L_00
+    400014: DJ_elb_L_01
+    400016: DJ_elb_R_00
+    400018: DJ_elb_R_01
+    400020: DJ_hair_00
+    400022: DJ_hair_01
+    400024: DJ_hair_02
+    400026: DJ_hair_03
+    400028: DJ_hair_04
+    400030: DJ_hair_05
+    400032: DJ_hair_10
+    400034: DJ_hair_11
+    400036: DJ_hair_12
+    400038: DJ_hair_13
+    400040: DJ_hair_14
+    400042: DJ_hair_15
+    400044: DJ_leg_L_00
+    400046: DJ_leg_L_01
+    400048: DJ_leg_R_00
+    400050: DJ_leg_R_01
+    400052: DJ_moni_L_00
+    400054: DJ_moni_L_01
+    400056: DJ_moni_L_02
+    400058: DJ_moni_L_03
+    400060: DJ_moni_R_00
+    400062: DJ_moni_R_01
+    400064: DJ_moni_R_02
+    400066: DJ_moni_R_03
+    400068: DJ_mune_L_00
+    400070: DJ_mune_L_01
+    400072: DJ_mune_R_00
+    400074: DJ_mune_R_01
+    400076: DJ_nckclt_00
+    400078: DJ_nckclt_01
+    400080: DJ_string_L_00
+    400082: DJ_string_L_01
+    400084: DJ_string_R_00
+    400086: DJ_string_R_01
+    400088: DJ_tareA_00
+    400090: DJ_tareA_01
+    400092: DJ_tareB_00
+    400094: DJ_tareB_01
+    400096: DJ_tareC_00
+    400098: DJ_tareC_01
+    400100: EX_apronBA_L
+    400102: EX_apronBA_R
+    400104: EX_apronBB_L
+    400106: EX_apronBB_R
+    400108: EX_apronFA_L
+    400110: EX_apronFA_R
+    400112: EX_apronFB_L
+    400114: EX_apronFB_R
+    400116: EX_armcltA_L
+    400118: EX_armcltA_R
+    400120: EX_armcltB_L
+    400122: EX_armcltB_R
+    400124: EX_armcltC_L
+    400126: EX_armcltC_R
+    400128: EX_bkclt
+    400130: EX_nckclt
+    400132: EX_spclt_L
+    400134: EX_spclt_R
+    400136: EX_wp_L
+    400138: EX_wp_R
+    400140: Eyes
+    400142: Face
+    400144: FaceDot
+    400146: //RootNode
+    400148: FC_eye_L
+    400150: FC_eye_R
+    400152: FloatingCloth
+    400154: Hair
+    400156: HairTies
+    400158: Headdress
+    400160: Highlights
+    400162: JD_foot_L
+    400164: JD_foot_R
+    400166: JD_hip
+    400168: JD_leg_L
+    400170: JD_leg_R
+    400172: JD_tg_L
+    400174: JD_tg_R
+    400176: JD_toe_L
+    400178: JD_toe_R
+    400180: JU_arm_L
+    400182: JU_arm_R
+    400184: JU_elb_L
+    400186: JU_elb_R
+    400188: JU_hand_L
+    400190: JU_hand_R
+    400192: JU_head
+    400194: JU_hi_L
+    400196: JU_hi_R
+    400198: JU_indeA_L
+    400200: JU_indeA_R
+    400202: JU_indeB_L
+    400204: JU_indeB_R
+    400206: JU_littA_L
+    400208: JU_littA_R
+    400210: JU_littB_L
+    400212: JU_littB_R
+    400214: JU_middA_L
+    400216: JU_middA_R
+    400218: JU_middB_L
+    400220: JU_middB_R
+    400222: JU_neck
+    400224: JU_ringA_L
+    400226: JU_ringA_R
+    400228: JU_ringB_L
+    400230: JU_ringB_R
+    400232: JU_shol_L
+    400234: JU_shol_R
+    400236: JU_spA
+    400238: JU_spB
+    400240: JU_thmbA_L
+    400242: JU_thmbA_R
+    400244: JU_thmbB_L
+    400246: JU_thmbB_R
+    400248: np001101_Bone
+    400250: TW_arm_L
+    400252: TW_arm_R
+    400254: TW_elb_L
+    400256: TW_elb_R
+    400258: TW_hip_L
+    400260: TW_hip_R
+    400262: TW_leg_L
+    400264: TW_leg_R
+    2100000: 'Material #2'
+    2100002: 'Material #3'
+    2100004: 'Material #6'
+    2100006: 'Material #4'
+    2100008: 'Material #5'
+    2100010: 'Material #11'
+    2100012: 'Material #7'
+    2100014: 'Material #13'
+    2100016: 'Material #14'
+    2100018: 'Material #12'
+    2100020: 'Material #10'
+    2100022: 'Material #17'
+    2100024: 'Material #16'
+    2100026: 'Material #19'
+    2100028: 'Material #18'
+    4300000: Face
+    4300002: FaceDot
+    4300004: Eyes
+    4300006: Highlights
+    4300008: HairTies
+    4300010: Hair
+    4300012: BodyClothing
+    4300014: Arms
+    4300016: FloatingCloth
+    4300018: Headdress
+    4300020: CrystalHalf
+    4300022: CrystalFull
+    4300024: CrystalHalfBroken
+    4300026: CrystalShard
+    9500000: //RootNode
+    13700000: Arms
+    13700002: BodyClothing
+    13700004: CrystalFull
+    13700006: CrystalHalf
+    13700008: CrystalHalfBroken
+    13700010: CrystalShard
+    13700012: Eyes
+    13700014: Face
+    13700016: FaceDot
+    13700018: FloatingCloth
+    13700020: Hair
+    13700022: HairTies
+    13700024: Headdress
+    13700026: Highlights
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
